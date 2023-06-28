@@ -1,4 +1,4 @@
 # Python
 
-🌿inflearn - 1. web crawling \n
-📑Beakjoon Online Judge
+- 🌿inflearn - 1. web crawling 
+- 📑Beakjoon Online Judge
